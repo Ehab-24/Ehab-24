@@ -16,7 +16,7 @@
 
 - ⚡ Personal traits **A dedicated young man with great passion for learning new skills.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Softwwares and tools:</h3>
 <p align="left">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img
@@ -83,13 +83,13 @@
     />
   </a>
   <a
-    href="https://www.adobe.com/in/products/illustrator.html"
+    href="https://code.visualstudio.com/"
     target="_blank"
     rel="noreferrer"
   >
     <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
+      src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"
+      alt="vs code"
       width="40"
       height="40"
     />
@@ -102,6 +102,18 @@
     <img
       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
       alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://pop.system76.com/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
+      alt="linux"
       width="40"
       height="40"
     />
